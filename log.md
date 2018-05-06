@@ -13,3 +13,6 @@ Completed 50% of the Grid course. Gone through CSS Grid in CSSTricks. Tried a si
 
 Day 26:
 Completed the Grid course. Having some idea on how to work with grid. Have to resume git course.
+
+Day 27:
+Gone through Git course. Having some idea about few git commands.
