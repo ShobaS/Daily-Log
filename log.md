@@ -16,3 +16,6 @@ Completed the Grid course. Having some idea on how to work with grid. Have to re
 
 Day 27:
 Gone through Git course. Having some idea about few git commands.
+
+Day 28:
+Learnt about few concepts in Javascript like inheritance, factory functions and so on. Having some basic idea about those. Have to explore in detail about these topics.
