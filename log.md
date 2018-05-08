@@ -19,3 +19,6 @@ Gone through Git course. Having some idea about few git commands.
 
 Day 28:
 Learnt about few concepts in Javascript like inheritance, factory functions and so on. Having some basic idea about those. Have to explore in detail about these topics.
+
+Day 29:
+Learnt about few git commands from the course. Having a thought to explore more js concepts.
