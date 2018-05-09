@@ -22,3 +22,6 @@ Learnt about few concepts in Javascript like inheritance, factory functions and 
 
 Day 29:
 Learnt about few git commands from the course. Having a thought to explore more js concepts.
+
+Day 30:
+Completed 40% of git course. Learnt about few JS concepts. Have to explore in detail.
