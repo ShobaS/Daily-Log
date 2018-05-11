@@ -28,3 +28,6 @@ Completed 40% of git course. Learnt about few JS concepts. Have to explore in de
 
 Day 31:
 Completed next lesson in git course. Exploring JS concepts like promises, Asynchronous functions.
+
+Day 32:
+Went through Few Higher order functions in Javascript and seen videos in Youtube.
