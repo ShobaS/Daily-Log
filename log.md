@@ -31,3 +31,6 @@ Completed next lesson in git course. Exploring JS concepts like promises, Asynch
 
 Day 32:
 Went through Few Higher order functions in Javascript and seen videos in Youtube.
+
+Day 33:
+Gone through few videos for some JS concepts. Nothing much.
