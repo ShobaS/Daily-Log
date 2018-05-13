@@ -34,3 +34,6 @@ Went through Few Higher order functions in Javascript and seen videos in Youtube
 
 Day 33:
 Gone through few videos for some JS concepts. Nothing much.
+
+Day 34:
+Continued with the git course. Almost finished the course only few left. Having a thought to start React.
