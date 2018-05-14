@@ -37,3 +37,6 @@ Gone through few videos for some JS concepts. Nothing much.
 
 Day 34:
 Continued with the git course. Almost finished the course only few left. Having a thought to start React.
+
+Day 35:
+Started with React. Started a medium article for the fundamentals in React.
