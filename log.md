@@ -40,3 +40,6 @@ Continued with the git course. Almost finished the course only few left. Having 
 
 Day 35:
 Started with React. Started a medium article for the fundamentals in React.
+
+Day 36:
+Went through an article and understood few basics in React. Have to explore a lot more. 
