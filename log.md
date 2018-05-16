@@ -43,3 +43,6 @@ Started with React. Started a medium article for the fundamentals in React.
 
 Day 36:
 Went through an article and understood few basics in React. Have to explore a lot more. 
+
+Day 37:
+Gone through the React documentation. Planning to start with a simple project to understand concepts.
