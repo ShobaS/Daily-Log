@@ -46,3 +46,6 @@ Went through an article and understood few basics in React. Have to explore a lo
 
 Day 37:
 Gone through the React documentation. Planning to start with a simple project to understand concepts.
+
+Day 38:
+Nothing much. Same as yesterday went through the documentation. Just started a simple project in React. Have to work on that.
