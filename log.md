@@ -49,3 +49,6 @@ Gone through the React documentation. Planning to start with a simple project to
 
 Day 38:
 Nothing much. Same as yesterday went through the documentation. Just started a simple project in React. Have to work on that.
+
+Day 39:
+Tried with the react project. Having a lot of confusion. Have to work on to get a clear picture of how it works.
