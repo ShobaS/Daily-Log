@@ -52,3 +52,6 @@ Nothing much. Same as yesterday went through the documentation. Just started a s
 
 Day 39:
 Tried with the react project. Having a lot of confusion. Have to work on to get a clear picture of how it works.
+
+Day 40:
+Tried to set up react Project from scratch. Still facing some difficulty. Have to work on to get the set up done.
