@@ -55,3 +55,6 @@ Tried with the react project. Having a lot of confusion. Have to work on to get 
 
 Day 40:
 Tried to set up react Project from scratch. Still facing some difficulty. Have to work on to get the set up done.
+
+Day 41:
+Done the basic setup without Babel and webpack. Still not clear with those. Tried a simple function.
