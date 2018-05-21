@@ -58,3 +58,6 @@ Tried to set up react Project from scratch. Still facing some difficulty. Have t
 
 Day 41:
 Done the basic setup without Babel and webpack. Still not clear with those. Tried a simple function.
+
+Day 42:
+Tried to understand a generator code in react. can Understand it somehow. Have to spend more time in understanding the code. Have to setup docker for Journal App.
