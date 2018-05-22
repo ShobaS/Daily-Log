@@ -61,3 +61,6 @@ Done the basic setup without Babel and webpack. Still not clear with those. Trie
 
 Day 42:
 Tried to understand a generator code in react. can Understand it somehow. Have to spend more time in understanding the code. Have to setup docker for Journal App.
+
+Day 43:
+Have a setup for React along with webpack and babel. Somehow managed to find a way to install docker in ubuntu. Have gone through a simple code along with Props in react.
