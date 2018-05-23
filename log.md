@@ -64,3 +64,6 @@ Tried to understand a generator code in react. can Understand it somehow. Have t
 
 Day 43:
 Have a setup for React along with webpack and babel. Somehow managed to find a way to install docker in ubuntu. Have gone through a simple code along with Props in react.
+
+Day 44:
+Completed Markdown Previewer Project in freecodecamp React project. Installed docker. Having an idea about state changing in React.
