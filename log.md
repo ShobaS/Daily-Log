@@ -67,3 +67,6 @@ Have a setup for React along with webpack and babel. Somehow managed to find a w
 
 Day 44:
 Completed Markdown Previewer Project in freecodecamp React project. Installed docker. Having an idea about state changing in React.
+
+Day 45:
+Have started the Leaderboard challenge from freecodecamp. Had a review for the Markdown Previewer. Searching for ways to improve it.
