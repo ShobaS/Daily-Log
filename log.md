@@ -70,3 +70,6 @@ Completed Markdown Previewer Project in freecodecamp React project. Installed do
 
 Day 45:
 Have started the Leaderboard challenge from freecodecamp. Had a review for the Markdown Previewer. Searching for ways to improve it.
+
+Day 46:
+Worked on Camper Leaderboard challenge and also accordion task using JS. Planning to finish the leaderboard challenge by tommorrow.
