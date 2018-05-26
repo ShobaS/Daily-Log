@@ -73,3 +73,6 @@ Have started the Leaderboard challenge from freecodecamp. Had a review for the M
 
 Day 46:
 Worked on Camper Leaderboard challenge and also accordion task using JS. Planning to finish the leaderboard challenge by tommorrow.
+
+Day 47:
+Completed the Camper challenge. Nothing much. Planning to learn promises in some depth. Have to start the next challenge.
