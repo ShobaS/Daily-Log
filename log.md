@@ -76,3 +76,6 @@ Worked on Camper Leaderboard challenge and also accordion task using JS. Plannin
 
 Day 47:
 Completed the Camper challenge. Nothing much. Planning to learn promises in some depth. Have to start the next challenge.
+
+Day 48:
+Watched a video for React's new Context API and learned some stuff. Made a PR and got comments for Camper challenge. Need to work on it further. Had a discussion for the Journal App.
