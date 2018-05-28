@@ -79,3 +79,6 @@ Completed the Camper challenge. Nothing much. Planning to learn promises in some
 
 Day 48:
 Watched a video for React's new Context API and learned some stuff. Made a PR and got comments for Camper challenge. Need to work on it further. Had a discussion for the Journal App.
+
+Day 49:
+Made few changes in Camper challenge. Still one more user story is pending. Watched few videos in howtographql. Have to explore more to understand Journal setup.
