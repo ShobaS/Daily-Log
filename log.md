@@ -82,3 +82,6 @@ Watched a video for React's new Context API and learned some stuff. Made a PR an
 
 Day 49:
 Made few changes in Camper challenge. Still one more user story is pending. Watched few videos in howtographql. Have to explore more to understand Journal setup.
+
+Day 50:
+Tried to add events for switching in camper challenge. Have to work on that further. Tried to connect postgres. But not sure of how to do it. Have to go through graphql also.
