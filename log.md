@@ -85,3 +85,6 @@ Made few changes in Camper challenge. Still one more user story is pending. Watc
 
 Day 50:
 Tried to add events for switching in camper challenge. Have to work on that further. Tried to connect postgres. But not sure of how to do it. Have to go through graphql also.
+
+Day 51:
+Completed the camper challenge. Went through some react stuff. Planning to work on react in freecodecamp.
