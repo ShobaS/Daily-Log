@@ -88,3 +88,6 @@ Tried to add events for switching in camper challenge. Have to work on that furt
 
 Day 51:
 Completed the camper challenge. Went through some react stuff. Planning to work on react in freecodecamp.
+
+Day 52:
+Read a article to understand React. Should start a todo app using React.
