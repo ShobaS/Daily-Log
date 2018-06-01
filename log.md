@@ -91,3 +91,6 @@ Completed the camper challenge. Went through some react stuff. Planning to work 
 
 Day 52:
 Read a article to understand React. Should start a todo app using React.
+
+Day 53:
+Learnt Sass in freecodecamp. Have done the setup for todo project. Have to start working on it.
