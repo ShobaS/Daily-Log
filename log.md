@@ -94,3 +94,6 @@ Read a article to understand React. Should start a todo app using React.
 
 Day 53:
 Learnt Sass in freecodecamp. Have done the setup for todo project. Have to start working on it.
+
+Day 54:
+Completed Sass challenges in freecodecamp. Worked on changes for camper leaderboard project. Still unable to correct them. Thinking of exploring more, only then can understand the problem better.
