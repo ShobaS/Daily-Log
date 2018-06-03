@@ -97,3 +97,6 @@ Learnt Sass in freecodecamp. Have done the setup for todo project. Have to start
 
 Day 54:
 Completed Sass challenges in freecodecamp. Worked on changes for camper leaderboard project. Still unable to correct them. Thinking of exploring more, only then can understand the problem better.
+
+Day 55:
+Worked on few React challenges in freecodecamp. Started the basic styling in todo app.
