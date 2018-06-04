@@ -100,3 +100,6 @@ Completed Sass challenges in freecodecamp. Worked on changes for camper leaderbo
 
 Day 55:
 Worked on few React challenges in freecodecamp. Started the basic styling in todo app.
+
+Day 56:
+Worked on todo app. Have some idea of how to add events in react. Have to work on event binding more.
