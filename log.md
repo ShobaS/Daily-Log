@@ -103,3 +103,6 @@ Worked on few React challenges in freecodecamp. Started the basic styling in tod
 
 Day 56:
 Worked on todo app. Have some idea of how to add events in react. Have to work on event binding more.
+
+Day 57:
+completed on adding tasks in todo app. Have to work on the functionality yet. Have to complete it as soon as possible.
