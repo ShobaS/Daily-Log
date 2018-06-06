@@ -106,3 +106,6 @@ Worked on todo app. Have some idea of how to add events in react. Have to work o
 
 Day 57:
 completed on adding tasks in todo app. Have to work on the functionality yet. Have to complete it as soon as possible.
+
+Day 58:
+Worked on todo app. Having a clear idea of the functionality to be further added.
