@@ -109,3 +109,6 @@ completed on adding tasks in todo app. Have to work on the functionality yet. Ha
 
 Day 58:
 Worked on todo app. Having a clear idea of the functionality to be further added.
+
+Day 59:
+Worked on moving task from active to completed list in todo app. Understood a little bit about how things actually work. Feeling good:)
