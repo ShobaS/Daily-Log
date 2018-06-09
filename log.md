@@ -115,3 +115,6 @@ Worked on moving task from active to completed list in todo app. Understood a li
 
 Day 60:
 Added clearall functionality and have done the deletion of completed tasks.Have to work on the UI and improve it.
+
+Day 61:
+Tried out some design changes for todo app. Not yet satisfied with it. Have to create something better. Worked on some functionality and having a thought to get some help on how to continue it.
