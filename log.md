@@ -118,3 +118,6 @@ Added clearall functionality and have done the deletion of completed tasks.Have 
 
 Day 61:
 Tried out some design changes for todo app. Not yet satisfied with it. Have to create something better. Worked on some functionality and having a thought to get some help on how to continue it.
+
+Day 62:
+Tried to understand a friend's code. Having an idea on how to split the components and work on it.
