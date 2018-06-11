@@ -121,3 +121,6 @@ Tried out some design changes for todo app. Not yet satisfied with it. Have to c
 
 Day 62:
 Tried to understand a friend's code. Having an idea on how to split the components and work on it.
+
+Day 63:
+Tried to understand axios and about promises. But didn't understand it clearly and having a lot of confusions. Need to spend more time on it. Also going to try drum machine in fcc.
