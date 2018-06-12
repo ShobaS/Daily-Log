@@ -124,3 +124,6 @@ Tried to understand a friend's code. Having an idea on how to split the componen
 
 Day 63:
 Tried to understand axios and about promises. But didn't understand it clearly and having a lot of confusions. Need to spend more time on it. Also going to try drum machine in fcc.
+
+Day 64:
+Worked on React challenges in freecodecamp. Have seen videos about angular for work.
