@@ -127,3 +127,6 @@ Tried to understand axios and about promises. But didn't understand it clearly a
 
 Day 64:
 Worked on React challenges in freecodecamp. Have seen videos about angular for work.
+
+Day 65:
+Started the Drum machine challenge in fcc. Worked on the Structuring part. Planning to finish it by weekend.
