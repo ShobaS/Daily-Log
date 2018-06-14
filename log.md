@@ -130,3 +130,6 @@ Worked on React challenges in freecodecamp. Have seen videos about angular for w
 
 Day 65:
 Started the Drum machine challenge in fcc. Worked on the Structuring part. Planning to finish it by weekend.
+
+Day 66:
+Continued on the design part in Drum machine. Have to spend more time and complete it and have to start the functionality.
