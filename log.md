@@ -133,3 +133,6 @@ Started the Drum machine challenge in fcc. Worked on the Structuring part. Plann
 
 Day 66:
 Continued on the design part in Drum machine. Have to spend more time and complete it and have to start the functionality.
+
+Day 67:
+Trying to read the code in codepen. Have to complete that and continue in fcc. Worked on the same for drum machine.
