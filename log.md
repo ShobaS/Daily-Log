@@ -136,3 +136,6 @@ Continued on the design part in Drum machine. Have to spend more time and comple
 
 Day 67:
 Trying to read the code in codepen. Have to complete that and continue in fcc. Worked on the same for drum machine.
+
+Day 68:
+Read a code from codepen and tried to understand it. Having an idea on how to create components in react and work on it.
