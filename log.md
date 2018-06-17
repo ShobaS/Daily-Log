@@ -139,3 +139,6 @@ Trying to read the code in codepen. Have to complete that and continue in fcc. W
 
 Day 68:
 Read a code from codepen and tried to understand it. Having an idea on how to create components in react and work on it.
+
+Day 69:
+Learnt in freecodecamp about React. Have to complete it by this week and read few code in react also.
