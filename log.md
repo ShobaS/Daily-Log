@@ -142,3 +142,6 @@ Read a code from codepen and tried to understand it. Having an idea on how to cr
 
 Day 69:
 Learnt in freecodecamp about React. Have to complete it by this week and read few code in react also.
+
+Day 70:
+Worked on Freecodecamp challenge drumkit and learnt react in fcc. Have to make the learning wider in order to understand better.
