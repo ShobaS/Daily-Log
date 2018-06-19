@@ -145,3 +145,6 @@ Learnt in freecodecamp about React. Have to complete it by this week and read fe
 
 Day 70:
 Worked on Freecodecamp challenge drumkit and learnt react in fcc. Have to make the learning wider in order to understand better.
+
+Day 71:
+Got the latest code for Journal and tried to run it. But facing some issues and then looked into few code structure in it. Have to resolve it and also have to read about angular for work.
