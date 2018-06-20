@@ -148,3 +148,6 @@ Worked on Freecodecamp challenge drumkit and learnt react in fcc. Have to make t
 
 Day 71:
 Got the latest code for Journal and tried to run it. But facing some issues and then looked into few code structure in it. Have to resolve it and also have to read about angular for work.
+
+Day 72:
+Tried to setup postgres db and work on it. Have to look in the code about how its configured and need to work on the same.
