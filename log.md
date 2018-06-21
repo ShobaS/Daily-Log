@@ -151,3 +151,6 @@ Got the latest code for Journal and tried to run it. But facing some issues and 
 
 Day 72:
 Tried to setup postgres db and work on it. Have to look in the code about how its configured and need to work on the same.
+
+Day 73:
+Have seen videos in angular for work. Need to understand the concepts better and also to continue with drum machine and journal.
