@@ -154,3 +154,6 @@ Tried to setup postgres db and work on it. Have to look in the code about how it
 
 Day 73:
 Have seen videos in angular for work. Need to understand the concepts better and also to continue with drum machine and journal.
+
+Day 74:
+Have seen videos about git and just intro about traefik and docker. Tried out a small JS task. 
