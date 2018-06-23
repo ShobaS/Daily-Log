@@ -156,4 +156,7 @@ Day 73:
 Have seen videos in angular for work. Need to understand the concepts better and also to continue with drum machine and journal.
 
 Day 74:
-Have seen videos about git and just intro about traefik and docker. Tried out a small JS task. 
+Have seen videos about git and just intro about traefik and docker. Tried out a small JS task.
+
+Day 75:
+Created a database in postgres and tried to run the journal app. But having some issue in docker. Need to resolve it. 
