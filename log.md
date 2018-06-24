@@ -159,4 +159,7 @@ Day 74:
 Have seen videos about git and just intro about traefik and docker. Tried out a small JS task.
 
 Day 75:
-Created a database in postgres and tried to run the journal app. But having some issue in docker. Need to resolve it. 
+Created a database in postgres and tried to run the journal app. But having some issue in docker. Need to resolve it.
+
+Day 76:
+Read a article in Javascript and tried to run the Journal app. Getting error in docker-compose. Have to look into it and resolve it.
