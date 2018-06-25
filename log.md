@@ -163,3 +163,6 @@ Created a database in postgres and tried to run the journal app. But having some
 
 Day 76:
 Read a article in Javascript and tried to run the Journal app. Getting error in docker-compose. Have to look into it and resolve it.
+
+Day 77:
+Tried to install pgadmin and connect with postgres. But its not working as of now. Have to sort out any other way to connect to postgres.
