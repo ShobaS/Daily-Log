@@ -166,3 +166,6 @@ Read a article in Javascript and tried to run the Journal app. Getting error in 
 
 Day 77:
 Tried to install pgadmin and connect with postgres. But its not working as of now. Have to sort out any other way to connect to postgres.
+
+Day 78:
+Worked on a small task in javascript using objects. Still not running Journal in local need to find a way asap.
