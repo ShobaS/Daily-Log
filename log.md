@@ -169,3 +169,6 @@ Tried to install pgadmin and connect with postgres. But its not working as of no
 
 Day 78:
 Worked on a small task in javascript using objects. Still not running Journal in local need to find a way asap.
+
+Day 79:
+Tried to implement promise in leaderboard challenge in a better way and handle the errors. Tried to understand about promises and async/await.
