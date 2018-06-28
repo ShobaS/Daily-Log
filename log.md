@@ -172,3 +172,6 @@ Worked on a small task in javascript using objects. Still not running Journal in
 
 Day 79:
 Tried to implement promise in leaderboard challenge in a better way and handle the errors. Tried to understand about promises and async/await.
+
+Day 80:
+Read through some random articles. Nothing much. Have to start working on something.
