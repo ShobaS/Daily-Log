@@ -175,3 +175,6 @@ Tried to implement promise in leaderboard challenge in a better way and handle t
 
 Day 80:
 Read through some random articles. Nothing much. Have to start working on something.
+
+Day 81:
+Didn't code. Really not in a mindset to study and so slept.:(
