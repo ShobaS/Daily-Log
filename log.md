@@ -181,3 +181,6 @@ Didn't code. Really not in a mindset to study and so slept.:(
 
 Day 82:
 Tried out Promise in leaderboard and tried some functions in drum machine and challenge and having a thought to restructure the code.
+
+Day 83:
+Tried drum machine but find it difficult to continue with that. So started with canvas and having some fun trying it.
