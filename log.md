@@ -184,3 +184,6 @@ Tried out Promise in leaderboard and tried some functions in drum machine and ch
 
 Day 83:
 Tried drum machine but find it difficult to continue with that. So started with canvas and having some fun trying it.
+
+Day 84:
+Continued with the canvas tutorial. Its really cool to work with. Learnt to draw lines, circle in canvas.
