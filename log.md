@@ -190,3 +190,6 @@ Continued with the canvas tutorial. Its really cool to work with. Learnt to draw
 
 Day 85:
 Learnt to animate in canvas. It is really cool. Followed up with the tutorial and playing around with these things :)
+
+Day 86:
+Learnt about some basic concepts like api and read some articles to understand it better.
