@@ -193,3 +193,6 @@ Learnt to animate in canvas. It is really cool. Followed up with the tutorial an
 
 Day 86:
 Learnt about some basic concepts like api and read some articles to understand it better.
+
+Day 87:
+Watched videos on angular routing, passing parameters to a route and guard for navigating.
