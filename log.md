@@ -196,3 +196,6 @@ Learnt about some basic concepts like api and read some articles to understand i
 
 Day 87:
 Watched videos on angular routing, passing parameters to a route and guard for navigating.
+
+Day 88:
+Continued with the angular course and completed it. Worked on a small task on routing and service in the same.
