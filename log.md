@@ -199,3 +199,6 @@ Watched videos on angular routing, passing parameters to a route and guard for n
 
 Day 88:
 Continued with the angular course and completed it. Worked on a small task on routing and service in the same.
+
+Day 89:
+Learnt about template-driven and reactive forms. Have to understand about it better to work in things.
