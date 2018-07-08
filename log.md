@@ -202,3 +202,6 @@ Continued with the angular course and completed it. Worked on a small task on ro
 
 Day 89:
 Learnt about template-driven and reactive forms. Have to understand about it better to work in things.
+
+Day 90:
+Worked on the drum machine challenge. I believe to have a clear idea of how to work and continue with the work.
