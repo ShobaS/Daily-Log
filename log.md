@@ -214,3 +214,6 @@ Continued with React challenge in fcc and nothing much.
 
 Day 93:
 Continued with the React challenge in FCC. Going through stateless and stateful functional components.
+
+Day 94:
+Continued with the React challenge in FCC. Have gone through few stuff in angular for work.
