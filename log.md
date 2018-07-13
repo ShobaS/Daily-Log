@@ -217,3 +217,6 @@ Continued with the React challenge in FCC. Going through stateless and stateful 
 
 Day 94:
 Continued with the React challenge in FCC. Have gone through few stuff in angular for work.
+
+Day 95:
+Worked with the React challenge in FCC. Understanding state and binding better.
