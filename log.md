@@ -220,3 +220,6 @@ Continued with the React challenge in FCC. Have gone through few stuff in angula
 
 Day 95:
 Worked with the React challenge in FCC. Understanding state and binding better.
+
+Day 96:
+Continued React challenge in Freecodecamp and read an article on React components.
