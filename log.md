@@ -223,3 +223,6 @@ Worked with the React challenge in FCC. Understanding state and binding better.
 
 Day 96:
 Continued React challenge in Freecodecamp and read an article on React components.
+
+Day 97:
+Worked on the REact challenge in FCC and Having a thought of starting a small component project for work.
