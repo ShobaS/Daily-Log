@@ -226,3 +226,6 @@ Continued React challenge in Freecodecamp and read an article on React component
 
 Day 97:
 Worked on the REact challenge in FCC and Having a thought of starting a small component project for work.
+
+Day 98:
+Did some search for a component for work. Having to get an idea for that thing and getting to understand the angular things.
