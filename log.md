@@ -229,3 +229,6 @@ Worked on the REact challenge in FCC and Having a thought of starting a small co
 
 Day 98:
 Did some search for a component for work. Having to get an idea for that thing and getting to understand the angular things.
+
+Day 99:
+Continued with the r and a for the component thing. Got some idea on how to make it work. Also having a thought on starting it in React.
