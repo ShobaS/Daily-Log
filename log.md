@@ -232,3 +232,6 @@ Did some search for a component for work. Having to get an idea for that thing a
 
 Day 99:
 Continued with the r and a for the component thing. Got some idea on how to make it work. Also having a thought on starting it in React.
+
+Day 100:
+Continued with React challenge in FCC. :)
