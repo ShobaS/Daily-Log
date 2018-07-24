@@ -3,3 +3,6 @@ Continued with the React challenge in FCC. Went throught HostListeners in angula
 
 Day 2:
 Had continued with React in Freecodecamp. Have to work on something.
+
+Day 3:
+Nothing much. Continued with the same in FCC.
