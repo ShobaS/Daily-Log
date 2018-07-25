@@ -9,3 +9,7 @@ Nothing much. Continued with the same in FCC.
 
 Day 4:
 Read an article about PWA. Found it is really cool to know about PWA.
+
+
+Day 5:
+Read some article in medium. Having an idea to learn react and connecting it with DB with a simple form.
