@@ -16,3 +16,6 @@ Read some article in medium. Having an idea to learn react and connecting it wit
 
 Day 6:
 Read article about the cost of JS and also about PWA. It is really interesting to know that there is lot of stuff about the cost included in web.
+
+Day 7:
+Tried to rewamp the pomodoro application by having a reference to the JS clock from JS30.
