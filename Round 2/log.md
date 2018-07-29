@@ -19,3 +19,6 @@ Read article about the cost of JS and also about PWA. It is really interesting t
 
 Day 7:
 Tried to rewamp the pomodoro application by having a reference to the JS clock from JS30.
+
+Day 8:
+Continued with the React challenge in freecodecamp.
