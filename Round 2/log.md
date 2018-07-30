@@ -22,3 +22,6 @@ Tried to rewamp the pomodoro application by having a reference to the JS clock f
 
 Day 8:
 Continued with the React challenge in freecodecamp.
+
+Day 9:
+Slept once came from office. Didn't study.
